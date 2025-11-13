@@ -1,17 +1,21 @@
-# Hi there 👋 I'm Zachary Kunalan
+  # Hi there 👋 I'm Zachary Kunalan
 
 🎓 Computer Science student | AI enthusiast | Backend developer-in-training
 
-I’m currently building projects that combine **AI**, **web development**, and **clean code**. I’m seeking a computer science placement to apply my skills in Python, C++, Django, and problem-solving.
+🌟 Passionate about building projects that combine AI, web development, and well-structured code. Seeking a computer science placement where I can turn technical skills into impactful solutions.
 
 ---
 
 ## 🧰 Skills & Tools
 
-**Programming:** Python • C++ • JavaScript • SQL • HTML/CSS • VB.NET
-**Frameworks / Libraries:** Django • Flask • TensorFlow / PyTorch • Scikit-learn • Pandas
-**Databases / Tools:** SQLite / PostgreSQL • Git • VS Code
-**Other skills:** Database management, REST APIs, problem-solving, teamwork
+# Hi there 👋 I'm Zachary Kunalan
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-5-orange)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+![SQL](https://img.shields.io/badge/SQL-Relational-red)
 
 ---
 
