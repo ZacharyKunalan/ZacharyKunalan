@@ -8,14 +8,19 @@
 
 ## 🧰 Skills & Tools
 
-# Hi there 👋 I'm Zachary Kunalan
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-red)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange)
+![VB.NET](https://img.shields.io/badge/VB.NET-purple)
+![Django](https://img.shields.io/badge/Django-green)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![C++](https://img.shields.io/badge/C++-17-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-5-orange)
-![Django](https://img.shields.io/badge/Django-4.2-green)
-![SQL](https://img.shields.io/badge/SQL-Relational-red)
+**Programming:** Python • C++ • JavaScript • SQL • HTML/CSS • VB.NET  
+**Frameworks / Libraries:** Django • Flask • TensorFlow / PyTorch • Scikit-learn • Pandas  
+**Databases / Tools:** SQLite / PostgreSQL • Git • VS Code  
+**Other skills:** Database management, REST APIs, problem-solving, teamwork
+
 
 ---
 
